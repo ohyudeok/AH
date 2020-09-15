@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words>
+	<item>
+		<answer>Password</answer>
+		<description><![CDATA[ A secret word or phrase that must be used to gain admission to a place. ]]></description>
+		<category>word</category>
+	</item>
+	
+	<item>
+		<answer>giraffe</answer>
+		<description><![CDATA[ It is the tallest living animal. ]]></description>
+		<category>word</category>
+	</item>
+	
+	<item>
+		<answer>axe</answer>
+		<description><![CDATA[ A tool used for chopping wood. ]]></description>
+		<category>word</category>
+	</item>
+	
+	<item>
+		<answer>pineapple</answer>
+		<description><![CDATA[ A large juicy tropical fruit consisting of aromatic edible yellow flesh surrounded by a tough segmented skin and topped with a tuft of stiff leaves. ]]></description>
+		<category>word</category>
+	</item>
+	
+	<item>
+		<answer>iphone</answer>
+		<description><![CDATA[ A line of smartphones designed and marketed by Apple Inc. ]]></description>
+		<category>word</category>
+	</item>
+	
+	<item>
+		<answer>playstation</answer>
+		<description><![CDATA[ A video game console developed by Sony. ]]></description>
+		<category>word</category>
+	</item>
+	
+	<item>
+		<answer>basketball</answer>
+		<description><![CDATA[ A sport played by two teams of five players on a rectangular court. ]]></description>
+		<category>word</category>
+	</item>
+	
+	<item>
+		<answer>frozen</answer>
+		<description><![CDATA[ Let it go. Let it goooooooo. ]]></description>
+		<category>movie</category>
+		<audioAnswer>assets/sounds/word/frozen.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/frozen_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>twilight</answer>
+		<description><![CDATA[ A girl finds herself having to choose between an attractive man who stands up for her, and a man whose complexion isn't as nice, but enjoys talking about her emotions. ]]></description>
+		<category>movie</category>
+		<audioAnswer>assets/sounds/word/twilight.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/twilight_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>titanic</answer>
+		<description><![CDATA[ A large iceberg's peaceful, calm life comes to an abrupt end as largest ship collides with it. ]]></description>
+		<category>movie</category>
+		<audioAnswer>assets/sounds/word/titanic.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/titanic_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>incorrectly</answer>
+		<description><![CDATA[ Which word in the dictionary is spelled incorrectly? ]]></description>
+		<category>riddle</category>
+		<audioAnswer>assets/sounds/word/incorrectly.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/incorrectly_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>secret</answer>
+		<description><![CDATA[ If you have me, you want to share me. If you share me, you haven't got me. ]]></description>
+		<category>riddle</category>
+		<audioAnswer>assets/sounds/word/secret.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/secret_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>cold</answer>
+		<description><![CDATA[ What can you catch but not throw? ]]></description>
+		<category>riddle</category>
+		<audioAnswer>assets/sounds/word/cold.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/cold_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>banana</answer>
+		<category>picture</category>
+		<imageDesc>assets/pictures/banana.png</imageDesc>
+	</item>
+	
+	<item>
+		<answer>umbrella</answer>
+		<category>picture</category>
+		<imageDesc>assets/pictures/umbrella.png</imageDesc>
+	</item>
+	
+	<item>
+		<answer>elephant</answer>
+		<category>picture</category>
+		<imageDesc>assets/pictures/elephant.png</imageDesc>
+	</item>
+</words>
